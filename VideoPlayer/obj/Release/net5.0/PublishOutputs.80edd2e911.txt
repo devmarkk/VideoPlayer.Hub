@@ -1,0 +1,11 @@
+C:\Users\marco\OneDrive\Documentos\Projetos\Pessoal\VideoPlayer\VideoPlayer\obj\Release\net5.0\PubTmp\Out\VideoPlayer.exe
+C:\Users\marco\OneDrive\Documentos\Projetos\Pessoal\VideoPlayer\VideoPlayer\obj\Release\net5.0\PubTmp\Out\appsettings.Development.json
+C:\Users\marco\OneDrive\Documentos\Projetos\Pessoal\VideoPlayer\VideoPlayer\obj\Release\net5.0\PubTmp\Out\appsettings.json
+C:\Users\marco\OneDrive\Documentos\Projetos\Pessoal\VideoPlayer\VideoPlayer\obj\Release\net5.0\PubTmp\Out\VideoPlayer.dll
+C:\Users\marco\OneDrive\Documentos\Projetos\Pessoal\VideoPlayer\VideoPlayer\obj\Release\net5.0\PubTmp\Out\VideoPlayer.deps.json
+C:\Users\marco\OneDrive\Documentos\Projetos\Pessoal\VideoPlayer\VideoPlayer\obj\Release\net5.0\PubTmp\Out\VideoPlayer.runtimeconfig.json
+C:\Users\marco\OneDrive\Documentos\Projetos\Pessoal\VideoPlayer\VideoPlayer\obj\Release\net5.0\PubTmp\Out\VideoPlayer.pdb
+C:\Users\marco\OneDrive\Documentos\Projetos\Pessoal\VideoPlayer\VideoPlayer\obj\Release\net5.0\PubTmp\Out\Microsoft.OpenApi.dll
+C:\Users\marco\OneDrive\Documentos\Projetos\Pessoal\VideoPlayer\VideoPlayer\obj\Release\net5.0\PubTmp\Out\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\marco\OneDrive\Documentos\Projetos\Pessoal\VideoPlayer\VideoPlayer\obj\Release\net5.0\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\marco\OneDrive\Documentos\Projetos\Pessoal\VideoPlayer\VideoPlayer\obj\Release\net5.0\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerUI.dll
